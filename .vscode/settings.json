@@ -1,0 +1,8 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "linux",
+  "files.associations": {
+    "esp_system.h": "c",
+    "esp_err.h": "c"
+  }
+}
